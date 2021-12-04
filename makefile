@@ -1,0 +1,1 @@
+gcc -c -g -std=c99 -Wvla -Wall -fsanitize=address,undefined ww.c
